@@ -31,7 +31,7 @@ export function AppLayout({ children }: AppLayoutProps) {
             <span className="app-header__eyebrow-dot" />
             Excel Point Data Lookup
           </div>
-          <h1 className="app-header__title">Flat Name Converter Tool</h1>
+          <h1 className="app-header__title">Shyju Flat Name Converter Tool</h1>
           <p className="app-header__subtitle">
             Upload your Excel workbook and instantly look up structured point data by primary key
           </p>
